@@ -1,0 +1,16 @@
+body {
+    background-color: gray
+    
+}
+
+h1 {
+    color: black   ;    /* Cambia el color del texto a azul */
+    font-size: 28x;   /* Establece el tamaño de fuente a 24 píxeles */
+    text-align: center; /* Centra el texto */
+}
+
+
+.ct-series-a .ct-line {
+    stroke: green; /* Color de la línea */
+    stroke-width: 2px; /* Grosor de la línea */
+}
